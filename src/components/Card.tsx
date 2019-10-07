@@ -8,6 +8,7 @@ interface Props {
 
 export const CARD_HEIGHT = 250;
 export const CARD_TITLE = 45;
+export const CARD_PADDING = 20;
 
 const styles = StyleSheet.create({
   card: {
